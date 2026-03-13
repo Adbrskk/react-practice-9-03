@@ -1,0 +1,16 @@
+.cartItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.cartItem input {
+  width: 50px;
+  padding: 5px;
+}
+
+.cartItem button {
+  padding: 6px 10px;
+  cursor: pointer;
+}

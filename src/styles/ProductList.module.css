@@ -1,0 +1,15 @@
+.products {
+  width: 45%;
+}
+
+.productItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.productItem button {
+  padding: 6px 10px;
+  cursor: pointer;
+}
